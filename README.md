@@ -1,4 +1,4 @@
-# Histogram Equalization Using OpenCV (Grayscale & Color Images)
+# EXP-3 Histogram Equalization Using OpenCV (Grayscale & Color Images)
 
 
 ## Aim
